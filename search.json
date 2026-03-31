@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello my name is Zoe! Here is my blog, which consists of interesting data about sports and some of my interests. I am a junior here at the University of Nebraska at Lincoln studying sports media and broadcasting."
+  },
+  {
+    "objectID": "posts/ncaa-basketball-huskers-march-madness-run/index.html",
+    "href": "posts/ncaa-basketball-huskers-march-madness-run/index.html",
+    "title": "Nebraska had a program first in March Madness",
+    "section": "",
+    "text": "Nebraska’s March Madness was awesome!\n\n\nCode\n#1 message: false\nlibrary(tidyverse)\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.6\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.1     ✔ tibble    3.3.1\n✔ lubridate 1.9.4     ✔ tidyr     1.3.2\n✔ purrr     1.2.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "zoesportsblog",
+    "section": "",
+    "text": "Nebraska had a program first in March Madness\n\n\n\ncollege\n\nbasketall\n\nhuskers\n\n\n\n\n\n\n\n\n\nApr 10, 2026\n\n\nZoe Leggett\n\n\n\n\n\nNo matching items"
+  }
+]
